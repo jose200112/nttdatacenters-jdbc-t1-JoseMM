@@ -72,7 +72,7 @@ public class App {
 	
 	
 	/**
-	 * Clase privada que cierra la conexion y la consulta
+	 * Metodo privado que cierra la conexion y la consulta
 	 * @param dbConnection conexion
 	 * @param sentence sentencia
 	 * @throws SQLException
